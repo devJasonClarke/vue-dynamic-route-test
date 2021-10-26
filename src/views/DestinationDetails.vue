@@ -57,7 +57,7 @@ export default {
 };
 </script>
 
-<style scoped>
+<style scoped> 
 .cards {
   display: flex;
   flex-wrap: wrap;
